@@ -1,0 +1,4 @@
+The .ipynb file is the Jupyter Notebook file to serve as the report, including code, for this analysis of bacterial promoters from DNA sequence fragments.
+The image files relate to output in model interpretability portions of this notebook that do not render on GitHub (but should elsewhere).
+The SHAP image files reflect SHAP output for the individual samples numbered in the filenames.
+The LIME image files ("Keras..." and "LR...") reflect screenshots of portions of LIME output for individual samples numbered in the filenames.
