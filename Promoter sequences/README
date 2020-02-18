@@ -2,4 +2,4 @@ The .ipynb file is the Jupyter Notebook file to serve as the report, including c
 The image files relate to output in model interpretability portions of this notebook that do not render on GitHub (but should elsewhere).
 The SHAP image files reflect SHAP output for the individual samples numbered in the filenames.
 The LIME image files ("Keras..." and "LR...") reflect screenshots of portions of LIME output for individual samples numbered in the filenames.
-The PDF file ("Promoters-NN&ML_fromSafari.pdf") includes all images in the context of the notebook's cells and accompanying text.
+The PDF file ("Promoters-NN&ML_Full.pdf") includes all images in the context of the notebook's cells and accompanying text.
